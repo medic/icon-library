@@ -1,5 +1,5 @@
 ## About the Icon Library
-https://static1.squarespace.com/static/5bd25eea65a707ad54c1e8ca/t/5bf4a3442b6a2841cd402a05/1542759243884/CHT-feature-overview-01.png?format=1000w
+<img alt="Example Icons" style="border-width:0" src="https://static1.squarespace.com/static/5bd25eea65a707ad54c1e8ca/t/5bf4a3442b6a2841cd402a05/1542759243884/CHT-feature-overview-01.png?format=1000w" />
 
 These are icons used in Medic Mobile applications. We will continually update this library as new icons are developed for different workflows.
 
