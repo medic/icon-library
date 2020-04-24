@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>icon-warning-ambre</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-warning-ambre">
+            <rect id="Rectangle" fill="#E9AA22" x="0" y="0" width="32" height="32" rx="6"></rect>
+            <path d="M18.1190909,27.1167651 C18.6836364,26.5606542 19,25.7864607 19,24.9931849 C19,24.2080872 18.6836364,23.4311677 18.1190909,22.8750568 C17.5654545,22.3162199 16.7936364,22 16,22 C15.2090909,22 14.4318182,22.3162199 13.8754545,22.8750568 C13.3163636,23.4311677 13,24.2080872 13,24.9931849 C13,25.7864607 13.3163636,26.5606542 13.8754545,27.1167651 C14.4318182,27.675602 15.2090909,28 16,28 C16.7936364,28 17.5654545,27.675602 18.1190909,27.1167651 Z" id="path-1-path-copy" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path d="M15.4998315,6 C13.4154664,6 12.8879563,7.72807473 13.0186668,8.76076803 L14.276755,19.6429683 C14.3281055,20.6782564 14.9489802,21 15.4998315,21 C15.9923298,21 16.6808938,20.6263622 16.7229079,19.6429683 L17.9809961,8.76076803 C18.1117066,7.7540218 17.5982012,6 15.4998315,6 Z" id="path-1-path-copy-2" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
